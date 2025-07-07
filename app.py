@@ -93,6 +93,9 @@ st.markdown("""
 <div class="main-header">
     <h1>🎯 AI Shirt Color Detection Pro</h1>
     <p>Advanced computer vision system for detecting and analyzing shirt colors in images and videos</p>
+    <h3>(USE DETR AI Model for Better and Accurate Results)</h3>
+    <h4>RECOMMENDED CHOICE: DETR (AI MODEL), Color Distribution Analysis (Detection Mode) and Multi-Region Sampling (Color Analysis Method)</h4>
+    <p>For best results, use high-quality images with clear shirt visibility and keep the keep the detection confidence at 0.10</p>
 </div>
 """, unsafe_allow_html=True)
 
