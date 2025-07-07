@@ -44,7 +44,7 @@ Advanced computer vision system for detecting and analyzing shirt colors in imag
 1. Clone the repository:
    ```bash
    git clone https://github.com/raamizhussain/Shirt-Color-Detector.git
-   cd shirt-color-detection
+   cd Shirt-Color-Detection
 Install dependencies:
 
 pip install -r requirements.txt
