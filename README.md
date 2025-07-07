@@ -43,7 +43,7 @@ Advanced computer vision system for detecting and analyzing shirt colors in imag
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/shirt-color-detection.git
+   git clone https://github.com/raamizhussain/Shirt-Color-Detector.git
    cd shirt-color-detection
 Install dependencies:
 
@@ -68,10 +68,15 @@ View the color analysis results
 ## File Structure 📁
 shirt-color-detection/
 ├── app.py                # Main application code
+
 ├── README.md             # This file
+
 ├── requirements.txt      # Python dependencies
+
 ├── yolov5s.pt            # YOLOv5 small model weights
+
 ├── Shirt_Color_Detection.ipynb  # Jupyter notebook version (optional)
+
 └── demo.gif              # Demo animation (optional)
 
 ## Requirements 📦
